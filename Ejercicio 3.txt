@@ -1,0 +1,6 @@
+Ejercicio 3 (Menos fuerte para mi):
+A. Opcion elegida 
+B. La funcion aparente del código es un inicio de sesión con conexión a servicios para preguntar
+sobre el token de autorización del login.
+C. Angular.
+D. A simple vista no encuentro errores.
